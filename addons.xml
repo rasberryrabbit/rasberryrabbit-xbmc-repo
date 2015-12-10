@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="service.subtitles.22min"
+       name="22min.com"
+       version="0.7"
+       provider-name="unknown">
+    <requires>
+        <import addon="xbmc.python" version="2.14.0"/>
+    </requires>
+    <extension point="xbmc.subtitle.module"
+               library="service.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Get subtitles from 22min.com</summary>
+        <description lang="en">22min.com is search engine for Korean subtitles from DCInside</description>
+        <disclaimer lang="en"/>
+        <platform>all</platform>
+        <language/>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum>http://22min.com</forum>
+        <website/>
+        <email/>
+        <source>https://github.com/rasberryrabbit/service.subtitles.22min</source>
+    </extension>
+</addon>
+
+<addon id="service.subtitles.jamak"
+       name="jamak.kr"
+       version="0.2"
+       provider-name="unknown">
+    <requires>
+        <import addon="xbmc.python" version="2.14.0"/>
+    </requires>
+    <extension point="xbmc.subtitle.module"
+               library="service.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Get subtitles from jamak.kr</summary>
+        <description lang="en">Get subtitles from jamak.kr</description>
+        <disclaimer lang="en"/>
+        <platform>all</platform>
+        <language/>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum>http://jamak.kr</forum>
+        <website/>
+        <email/>
+        <source>https://github.com/rasberryrabbit/service.subtitles.jamak</source>
+    </extension>
+</addon>
+
+<addon id="service.subtitles.nscreen"
+       name="nScreen.info"
+       version="0.9c"
+       provider-name="unknown">
+    <requires>
+        <import addon="xbmc.python" version="2.14.0"/>
+    </requires>
+    <extension point="xbmc.subtitle.module"
+               library="service.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Get subtitles from nscreen.info</summary>
+        <description lang="en">Get subtitles from nscreen.info</description>
+        <disclaimer lang="en"/>
+        <platform>all</platform>
+        <language/>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum/>
+        <website/>
+        <email/>
+        <source>https://github.com/rasberryrabbit/service.subtitles.nscreen</source>
+    </extension>
+</addon>
+</addons>

@@ -1,0 +1,29 @@
+0.9c
+- fix spelling errors in zip function.
+- use real name at zip extraction.
+
+0.8
+- change zip file handling.
+- no more search by filename
+
+0.7
+- support gzip compressed html content. use less traffic.
+
+0.6
+- add option for season/episode checking
+
+0.5
+- There is no missing item that invalid filename from web.
+- tvshow is now search with season/episode.
+
+0.4
+- fix enum bug
+
+0.3
+- optimization
+
+0.2
+- first beta
+
+0.1
+- first test.
