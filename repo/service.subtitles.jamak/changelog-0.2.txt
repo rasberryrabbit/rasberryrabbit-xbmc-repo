@@ -1,6 +1,3 @@
 0.2
 - site is too slow
 - skip timeout error
-
-0.1 first
-- first release

@@ -1,4 +1,4 @@
-0.9c
+0.9.3
 - fix spelling errors in zip function.
 - use real name at zip extraction.
 
