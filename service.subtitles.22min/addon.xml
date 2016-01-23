@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="service.subtitles.22min"
        name="22min.com"
-       version="0.8.1"
+       version="0.8.2"
        provider-name="rasberryrabbit">
     <requires>
         <import addon="xbmc.python" version="2.14.0"/>
@@ -10,7 +10,7 @@
                library="service.py"/>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Get subtitles from 22min.com</summary>
-        <description lang="en">22min.com is search engine for Korean subtitles from DCInside</description>
+        <description lang="en">22min.com is search engine for Korean subtitles from DCInside and Bunyuc forum</description>
         <disclaimer lang="en"/>
         <platform>all</platform>
         <language/>
