@@ -16,7 +16,7 @@
 
 <addon id="service.subtitles.22min"
        name="22min.com"
-       version="0.8.2"
+       version="0.8.3"
        provider-name="rasberryrabbit">
     <requires>
         <import addon="xbmc.python" version="2.14.0"/>
@@ -39,7 +39,7 @@
 
 <addon id="service.subtitles.jamak"
        name="jamak.kr"
-       version="0.2"
+       version="0.2.1"
        provider-name="unknown">
     <requires>
         <import addon="xbmc.python" version="2.14.0"/>
@@ -62,7 +62,7 @@
 
 <addon id="service.subtitles.nscreen"
        name="nScreen.info"
-       version="0.9.3"
+       version="0.9.4"
        provider-name="unknown">
     <requires>
         <import addon="xbmc.python" version="2.14.0"/>
