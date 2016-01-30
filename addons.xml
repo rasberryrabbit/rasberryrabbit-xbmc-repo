@@ -99,8 +99,8 @@
 
 <addon id="service.subtitles.nscreen"
        name="nScreen.info"
-       version="0.9.4"
-       provider-name="unknown">
+       version="0.9.5"
+       provider-name="rasberryrabbit">
     <requires>
         <import addon="xbmc.python" version="2.14.0"/>
     </requires>
