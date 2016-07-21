@@ -76,7 +76,7 @@
 
 <addon id="service.subtitles.jamak"
        name="jamak.kr"
-       version="0.2.4"
+       version="0.2.5"
        provider-name="rasberryrabbit">
     <requires>
         <import addon="xbmc.python" version="2.14.0"/>
