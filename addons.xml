@@ -53,7 +53,7 @@
 
 <addon id="service.subtitles.22min"
        name="22min.com"
-       version="0.8.16"
+       version="0.8.22"
        provider-name="rasberryrabbit">
     <requires>
         <import addon="xbmc.python" version="2.14.0"/>
